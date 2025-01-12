@@ -45,10 +45,10 @@ Key visualizations created in the project:
 - **Quarter-Wise Sales and Profit**
 - **Correlation Heatmap**
 
-![Category Sales and Profit](/laptop/Python/project/salesprofitbycategory.png)
-![Region Sales and Profit](/laptop/Python/project/salesprofitbyregion.png)
-![Quarter Sales and Profit](/laptop/Python/project/salesprofitbyquarter.png)
-![Correlation Heatmap](/laptop/Python/project/corrdata.png)
+![Category Sales and Profit](/home/bhavnesh/Downloads/salesprofitbycategory.png)
+![Region Sales and Profit](/home/bhavnesh/Downloads/salesprofitbyregion.png)
+![Quarter Sales and Profit](/home/bhavnesh/Downloads/salesprofitbyquarter.png)
+![Correlation Heatmap](/home/bhavnesh/Downloads/corrdata.png)
 
 ---
 
