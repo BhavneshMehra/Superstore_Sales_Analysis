@@ -45,7 +45,7 @@ Key visualizations created in the project:
 - **Quarter-Wise Sales and Profit**
 - **Correlation Heatmap**
 
-![Category Sales and Profit](/home/bhavnesh/Downloads/salesprofitbycategory.png)
+![Category Sales and Profit](salesprofitbycategory.png)
 ![Region Sales and Profit](/home/bhavnesh/Downloads/salesprofitbyregion.png)
 ![Quarter Sales and Profit](/home/bhavnesh/Downloads/salesprofitbyquarter.png)
 ![Correlation Heatmap](/home/bhavnesh/Downloads/corrdata.png)
