@@ -44,6 +44,7 @@ Key visualizations created in the project:
 - **Region-Wise Sales and Profit**
 - **Quarter-Wise Sales and Profit**
 - **Correlation Heatmap**
+- **Pairplot**
 
 ![Category Sales and Profit](salesprofitbycategory.png)
 ---
@@ -53,6 +54,7 @@ Key visualizations created in the project:
 ---
 ![Correlation Heatmap](correlationgraph.png).
 ---
+![Pairplot](pairplot.png).
 
 ## 📈 Key Findings
 - **Technology** and the **West region** are the most profitable segments.
