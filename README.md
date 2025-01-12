@@ -74,7 +74,6 @@ Key visualizations created in the project:
 ----
 2. Navigate to the project folder:
   ```bash
-    cd Superstore_Sales_Analysis
-----
+  cd Superstore_Sales_Analysis
 
 
