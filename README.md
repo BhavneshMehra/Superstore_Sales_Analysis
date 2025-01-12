@@ -75,6 +75,3 @@ Key visualizations created in the project:
 1. Clone this repository:
    ```bash
    git clone https://github.com/BhavneshMehra/Superstore_Sales_Analysis.git
-
-
-
