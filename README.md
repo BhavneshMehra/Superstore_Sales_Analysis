@@ -77,10 +77,10 @@ Key visualizations created in the project:
     cd Superstore_Sales_Analysis
 
 3. Install dependencies:
-  bash
+ ```bash
   pip install pandas matplotlib seaborn numpy
 
 4. Open the Jupyter Notebook:
-  bash
+```bash
   jupyter notebook notebooks/superstore_analysis.ipynb
 
