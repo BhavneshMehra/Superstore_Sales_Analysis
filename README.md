@@ -45,7 +45,7 @@ Key visualizations created in the project:
 - **Quarter-Wise Sales and Profit**
 - **Correlation Heatmap**
 
-![Category Sales and Profit](\home\bhavnesh\Downloads\salesprofitbycategory.png)
+![Category Sales and Profit](/home/bhavnesh/Downloads/salesprofitbycategory.png)
 ![Region Sales and Profit](/home/bhavnesh/Downloads/salesprofitbyregion.png)
 ![Quarter Sales and Profit](/home/bhavnesh/Downloads/salesprofitbyquarter.png)
 ![Correlation Heatmap](/home/bhavnesh/Downloads/corrdata.png)
@@ -70,4 +70,4 @@ Key visualizations created in the project:
 ## 📢 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/superstore-sales-analysis.git
+   git clone https://github.com/BhavneshMehra/Superstore_Sales_Analysis.git
