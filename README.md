@@ -71,17 +71,15 @@ Key visualizations created in the project:
 1. Clone this repository:
    ```bash
    git clone https://github.com/BhavneshMehra/Superstore_Sales_Analysis.git
-
+----
 2. Navigate to the project folder:
   ```bash
     cd Superstore_Sales_Analysis
-
-
+----
 3. Install dependencies:
      ```bash
       pip install pandas matplotlib seaborn numpy
-
-
+----
 4. Open the Jupyter Notebook:
     ```bash
       jupyter notebook notebooks/Superstore_Sales_Analysis.ipynb
