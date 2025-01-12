@@ -73,7 +73,6 @@ Key visualizations created in the project:
    git clone https://github.com/BhavneshMehra/Superstore_Sales_Analysis.git
 ----
 2. Navigate to the project folder:
-  ```bash
-  cd Superstore_Sales_Analysis
+   cd Superstore_Sales_Analysis
 
 
